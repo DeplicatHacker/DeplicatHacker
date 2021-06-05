@@ -1,0 +1,17 @@
+Dll injector is a safe way to exploit for biggeners#
+Because its unpatchable and undetecteble
+
+NOTE: INSTALL THIS PROGRAM (https://www.filesplitter.org/Free-File-Splitter-v5.0.1189.exe)
+TO MERGE THE DLL FILES
+
+How To Use
+----------------
+1st Open Any Game In Roblox#
+
+2nd Open The DLL INJECTOR
+
+3rd Select RobloxPlayer
+
+4th Select WRD_ESP.dll
+
+5th Enjoy
